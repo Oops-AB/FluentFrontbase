@@ -1,0 +1,10 @@
+.DS_Store
+Sources/main.swift
+.build
+Packages
+Database
+*.xcodeproj
+database.db
+Package.resolved
+DerivedData
+.swiftpm
